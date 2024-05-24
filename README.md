@@ -2,7 +2,7 @@
 
 ## Download the app
    ```bash
-   https://github.com/Nirbhay1199/MechQuick/blob/master/apk/MechQuick.apk
+   [https://github.com/Nirbhay1199/MechQuick/blob/master/apk/MechQuick.apk](https://github.com/Nirbhay1199/MechQuick/releases/download/MechQuick/MechQuick.apk)
    ```
 
 ## Introduction
