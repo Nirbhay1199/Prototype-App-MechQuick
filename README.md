@@ -1,5 +1,10 @@
 # MechQuick Prototype Android Application
 
+## Download the app
+   ```bash
+   https://github.com/Nirbhay1199/MechQuick/blob/master/apk/MechQuick.apk
+   ```
+
 ## Introduction
 This project is a prototype Android application for the MechQuick platform. It includes fundamental features such as user authentication, search functionality for service centers, and a map view to display locations. The app demonstrates skills in UI/UX design, API integration, and basic functionality implementation.
 
